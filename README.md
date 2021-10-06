@@ -1,4 +1,5 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+## [DEMO LINK](https://Oleksandr-Zhitenko.github.io/js_test_taks/)
+# Implement page according to next rules:
+1. create a button by clicking on which a new block with random coordinates and color appears
+2. when you click on a block, its layer becomes the top
+3. all blocks must be resizable
