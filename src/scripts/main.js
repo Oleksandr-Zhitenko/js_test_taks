@@ -28,6 +28,7 @@ btn.onclick = function() {
   item.style.position = 'absolute';
   item.style.top = `${x}px`;
   item.style.left = `${y}px`;
+  item.style.zIndex = layer;
 
   item.addEventListener('mousedown', initResize, false);
 
